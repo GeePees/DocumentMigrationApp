@@ -1,0 +1,10 @@
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\bin\Debug\AU Document.exe.config
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\bin\Debug\AU Document.exe
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\bin\Debug\AU Document.pdb
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\obj\Debug\AU Document.csproj.AssemblyReference.cache
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\obj\Debug\AU_Document.Properties.Resources.resources
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\obj\Debug\AU Document.csproj.GenerateResource.cache
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\obj\Debug\AU Document.csproj.CoreCompileInputs.cache
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\obj\Debug\AU Document.exe
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\obj\Debug\AU Document.pdb
+C:\Source\ARMNet\Migration\AU\04 - Migration of Investor Data\Migrate Investor Document Data\AU Document\obj\Debug\AU_Document.DocMig.resources
