@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DocMig.Update.cs" />
+    <Compile Include="DocMig.Utility.cs" />
+    <Compile Include="DocMig.PhysicalFiles.cs" />
+    <Compile Include="DocMig.MataData.cs" />
+    <Compile Include="DocMig.Config.cs" />
     <Compile Include="DocMig.cs">
       <SubType>Form</SubType>
     </Compile>
