@@ -25,13 +25,13 @@ namespace AU_Document
             // Hardcoded user inputs 
             DocumentDirectoryName = @"C:\Users\pivi.hapu\Downloads\2022";
             //textBox1.Text = @"Select the directory...";
-            ServerName = @"VM-VIC";
-            MainDatabaseName = "AU_DEV_Main";
-            VaultDatabaseName = "AU_DEV_Vault";
+            ServerName = @"DatabaseServerName";
+            MainDatabaseName = "MainDatabaseName";
+            VaultDatabaseName = "VaultDatabaseName";
             SQLAuthType = "SQL Server Auth"; // "Windows Auth";
             BatchLoadVersion = "Batch2";
-            SQLUserName = "pivi.hapu";
-            SQLPassword = "Getthru7";
+            SQLUserName = "UserName";
+            SQLPassword = "Password";
             textBox5.PasswordChar = '*';
             // progress bar label - begin
             ProgressMessage = "";
